@@ -1,0 +1,43 @@
+# Binary Image Classifier for Guilty Dog
+
+This is a binary image classifier trained and tested on a small dataset. The goal is to determine whether a dog has a "guilty face" or not. Main models adpoted are convolutional neural network CNN, support vector machine SVM, and CNN-SVM. CNN is built via Keras.
+
+## Table of Contents
+
+- [Project Name](#project-name)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Features](#features)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Acknowledgements](#acknowledgements)
+
+## Inspirations
+
+Please see the final report for references and acknoledgements. Other than those, a lot of thanks to Jian Yang's hotdog detector and my dog destroying my blanket when I was writing the project proposal.
+
+## Features
+
+List key features or functionalities of your project.
+
+## Getting Started
+
+Instructions on setting up and running your project locally.
+
+### Prerequisites
+
+List any software or dependencies that need to be installed.
+
+### Installation
+
+Step-by-step guide on how to install and configure your project.
+
+```bash
+# Example commands
+git clone https://github.com/yourusername/yourproject.git
+cd yourproject
+npm install
